@@ -1,0 +1,19 @@
+changelogs/current/new_features/http__fault-abort-response-headers.rst
+  s_03b5e7cf062b73::t_4d5af7c218a663 3
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.6",
+  "base_commit_sha": "14c516bc6c1f9e16bd7fe0e18d912ef424d503cf",
+  "prompts": {},
+  "sessions": {
+    "s_03b5e7cf062b73": {
+      "agent_id": {
+        "tool": "github-copilot-cli",
+        "id": "71cb9177-3bad-4bbb-a02b-bf6e3e37faa4",
+        "model": "auto"
+      },
+      "human_author": "DevStudio <srvcdevstudio@inditex.com>"
+    }
+  }
+}
