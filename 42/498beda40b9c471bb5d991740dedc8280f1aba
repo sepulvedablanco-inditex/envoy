@@ -1,0 +1,19 @@
+test/extensions/filters/http/mcp_router/mcp_router_integration_test.cc
+  s_7f5b8840456534::t_7dfb74a3b7081c 266-287
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.6",
+  "base_commit_sha": "42498beda40b9c471bb5d991740dedc8280f1aba",
+  "prompts": {},
+  "sessions": {
+    "s_7f5b8840456534": {
+      "agent_id": {
+        "tool": "github-copilot",
+        "id": "s_7f5b8840456534",
+        "model": "unknown"
+      },
+      "human_author": "Diego Sepúlveda Blanco <diegosb@inditex.com>"
+    }
+  }
+}
