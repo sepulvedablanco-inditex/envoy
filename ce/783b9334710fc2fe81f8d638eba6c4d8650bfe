@@ -1,0 +1,19 @@
+test/extensions/filters/http/fault/fault_filter_integration_test.cc
+  s_29d314c31080db::t_a729fde257f3b0 234-280,491-539
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.6",
+  "base_commit_sha": "ce783b9334710fc2fe81f8d638eba6c4d8650bfe",
+  "prompts": {},
+  "sessions": {
+    "s_29d314c31080db": {
+      "agent_id": {
+        "tool": "github-copilot",
+        "id": "s_29d314c31080db",
+        "model": "unknown"
+      },
+      "human_author": "Diego Sepúlveda Blanco <diegosb@inditex.com>"
+    }
+  }
+}
